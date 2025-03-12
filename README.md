@@ -1,0 +1,2 @@
+# WasteWise
+To seggregate waste
