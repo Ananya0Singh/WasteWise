@@ -1,2 +1,2 @@
 # WasteWise
-To seggregate waste
+To segregate waste
